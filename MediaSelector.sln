@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34205.153
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaSelector", "MediaSelector\MediaSelector.csproj", "{752070CC-C44E-4AF8-A055-BF1CC1F61659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752070CC-C44E-4AF8-A055-BF1CC1F61659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752070CC-C44E-4AF8-A055-BF1CC1F61659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752070CC-C44E-4AF8-A055-BF1CC1F61659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752070CC-C44E-4AF8-A055-BF1CC1F61659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DECCA25-BB2C-4733-B296-2E14947C84CB}
+	EndGlobalSection
+EndGlobal
